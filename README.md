@@ -1,4 +1,4 @@
-# gj-pdf-converter
+# GJ-PDF-Converter
 
 PDF to Excel Data Engine 
 Part of the GJ Tools Productivity Suite
